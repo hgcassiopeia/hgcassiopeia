@@ -2,7 +2,7 @@
 
 #### I'm <a href="https://yume-dev.me/" target="_blank">Thitikan Phagamas</a> and you can call me `Dream`. I'm developer who interested in new technology and music.
 
-# Codes and Tools :desktop_computer:
+# Langauges and Tools :desktop_computer:
 
 ### Front-End
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
